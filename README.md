@@ -55,7 +55,7 @@ $ git checkout -b develop
 $ vi commit.sh
 ```
 
-檔案內容修改完如下所示
+打開檔案後，此時無法編輯，需要按下「i」，視窗下方會出現【-- 插入 --】文字，則可以開始編輯檔案，而檔案內容修改完如下所示
 
 ```txt
 #!/bin/bash
@@ -67,7 +67,7 @@ echo "Hello World!!!"
 echo "Your Name"
 ```
 
-改完之後, 可以執行快捷鍵Shift + Z, 再按一次Z
+修改完之後, 按下Esc離開編輯模式, 視窗下方的【-- 插入 --】文字會消失，此時則可以按 2 次快捷鍵「Shift + Z」儲存檔案
 
 ```bash
 $ git status
