@@ -1,6 +1,8 @@
 # GitHub Practice
 
-透過這個Repository練習Git及GitHub，此影片連結(https://youtu.be/w3jLJU7DT5E)可以讓大家大致了解GitHub
+透過這個Repository練習Git及GitHub，下面的影片連結可以讓大家大致了解GitHub
+
+https://youtu.be/w3jLJU7DT5E
 
 ## 分支
 
